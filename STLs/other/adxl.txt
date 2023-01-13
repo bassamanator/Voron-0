@@ -1,0 +1,3 @@
+it uses m2x6mm to attach the adxl
+and then m3x35
+put the m3s in before you mount adxl or it kinda snags on the pins as youre screwing them in
